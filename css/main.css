@@ -17,7 +17,33 @@ html {
   box-sizing: inherit;
 }
 
-.img-flex {
-  display: block;
-  width: 100%;
+body {
+  margin: 0;
+}
+.water {
+  background-color: #e97065;
+}
+
+.watermelon {
+  font-family: 'Rammetto One', cursive;
+}
+
+.star {
+  background-color: #fbd25e;
+}
+
+.starfruit {
+  font-family: 'Gravitas One', cursive;
+}
+
+.pers {
+  background-color: #e86033;
+}
+
+.persimmon {
+  font-family: 'Open Sans', sans-serif;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
 }
